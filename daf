@@ -1,0 +1,234 @@
+commit ceb2725e93a4c83a60f7042d1f7efb6a7e434f05
+Author: EDUARDO VINICIUS FARIAS DA SILVA <efarias@vivaldi.grad.inf.puc-rio.br>
+Date:   Fri Jul 5 15:43:30 2013 -0300
+
+    Kruskal corrigido. No segmentation fault
+
+commit 84f34b31592ac8b9ac7c8d5d4edca16e2c7c2c4b
+Author: BRUNO JOSE OLIVIERI DE SOUZA <bolivieri@verdi.grad.inf.puc-rio.br>
+Date:   Thu Jun 27 13:46:19 2013 -0300
+
+    correcao de nomes de arquivos e script MATATUDO!!!
+
+commit 3411d7cfe1fd6887baf3220db48c0058aab5ac82
+Author: Igor Vasconcelos <igovasconcelos@yahoo.com.br>
+Date:   Sun Jun 23 22:25:48 2013 -0300
+
+    correção do nome
+
+commit 9aeea4a97e22a653813db184312fff09c588084d
+Author: Igor Vasconcelos <igovasconcelos@yahoo.com.br>
+Date:   Sun Jun 23 01:39:28 2013 -0300
+
+    adicionando nova versão do jar
+
+commit 5796828a4bcd9c29e5f75da39689c65e044085f9
+Author: Igor Vasconcelos <igovasconcelos@yahoo.com.br>
+Date:   Sun Jun 23 01:25:48 2013 -0300
+
+    Adicionando o projeto Java - LowerBound Esau
+
+commit 4a1766a036d2c8209947755f2216eb1d6abcb9f5
+Author: RAFAEL PEREIRA DE OLIVEIRA <rpoliveira@verdi.grad.inf.puc-rio.br>
+Date:   Sat Jun 22 20:39:36 2013 -0300
+
+    Algoritmo kruskal com .ssl adicionado
+
+commit d41895c42b4d0e9734ad2bf61f29f90b4b22ed89
+Author: RAFAEL PEREIRA DE OLIVEIRA <rpoliveira@verdi.grad.inf.puc-rio.br>
+Date:   Sat Jun 22 20:33:52 2013 -0300
+
+    Algoritmo Kruskal adicionado a estrutura e adequando para impressao.
+    
+    :-)
+
+commit e8b326b5b07c3185d3cd63113876cc0b4d3bb6d6
+Author: RAFAEL PEREIRA DE OLIVEIRA <rpoliveira@verdi.grad.inf.puc-rio.br>
+Date:   Sat Jun 22 20:21:54 2013 -0300
+
+    Kruskal migrado
+
+commit 32e4a5029fb2f67942554ea6be522dabb2d4896a
+Author: RAFAEL PEREIRA DE OLIVEIRA <rpoliveira@verdi.grad.inf.puc-rio.br>
+Date:   Sat Jun 22 18:54:33 2013 -0300
+
+    Update inicial migracao
+
+commit c25bbffbf2cb248acc3f6caf300546854aa6a826
+Author: BRUNO JOSE OLIVIERI DE SOUZA <bolivieri@crussel.grad.inf.puc-rio.br>
+Date:   Sat Jun 22 18:44:39 2013 -0300
+
+    xxx
+
+commit 1fd5eeac0fae528d7901ceb17f15ac45a1b076cc
+Author: BRUNO JOSE OLIVIERI DE SOUZA <bolivieri@crussel.grad.inf.puc-rio.br>
+Date:   Sat Jun 22 18:27:46 2013 -0300
+
+    xxx
+
+commit e3f1d0d6358cbeba04d628a05c5643937a608f45
+Author: BRUNO JOSE OLIVIERI DE SOUZA <bolivieri@crussel.grad.inf.puc-rio.br>
+Date:   Sat Jun 22 18:17:04 2013 -0300
+
+    new
+
+commit a27b7d5d5df953ee24a36ff7ee138acac815c3ec
+Author: BRUNO JOSE OLIVIERI DE SOUZA <bolivieri@lindberg.grad.inf.puc-rio.br>
+Date:   Sat Jun 22 17:02:08 2013 -0300
+
+    inserção do upperbound que IGOR fez em java!
+    
+    :-)
+
+commit 4e06ce2981f963ce25b8925608aa26bf68aed345
+Author: BRUNO JOSE OLIVIERI DE SOUZA <bolivieri@lindberg.grad.inf.puc-rio.br>
+Date:   Sat Jun 22 15:15:45 2013 -0300
+
+    retiramos os arquivos de teste antigos
+
+commit 6e9be87a12701ef1f692d5db262619a4a42c8f08
+Author: ANDRE DE SOUZA MOREIRA <asouza@lindberg.grad.inf.puc-rio.br>
+Date:   Sat Jun 22 14:51:43 2013 -0300
+
+    Adicionado a solucao baratinha (by bruno) e melhorado o limite superior dentro do cmst
+
+commit a2d149b75d58851ac7bf1e2f0d89b1ef59f606fe
+Author: BRUNO JOSE OLIVIERI DE SOUZA <bolivieri@crussel.grad.inf.puc-rio.br>
+Date:   Sat Jun 22 10:20:17 2013 -0300
+
+    Novo corte por lowerbound implementado.
+    
+    Melhoramentos nas estatísticas salvas.
+    
+    :-)
+
+commit a7fd97f0ad3285caf2e7f6048fd22f93db20dd60
+Author: André Moreira <eu.andremoreira@gmail.com>
+Date:   Fri Jun 21 14:19:06 2013 -0300
+
+    Adicionado z no comeco do nome dos arquivos
+
+commit 8dfc48225ba7fe587da89f1fa38a2ae0fe763952
+Author: André Moreira <eu.andremoreira@gmail.com>
+Date:   Fri Jun 21 14:18:15 2013 -0300
+
+    Removido Arquivos temp
+
+commit d12fc64c1599d184d316ed117c65183e0f494006
+Author: RAFAEL PEREIRA DE OLIVEIRA <rpoliveira@verdi.grad.inf.puc-rio.br>
+Date:   Fri Jun 21 14:12:14 2013 -0300
+
+    Recursao levemente corrigida. :)
+
+commit fb95214749ebf44928a78a02fa49062bb9133d37
+Merge: fbb7905 e8818b3
+Author: RAFAEL PEREIRA DE OLIVEIRA <rpoliveira@verdi.grad.inf.puc-rio.br>
+Date:   Fri Jun 21 14:10:22 2013 -0300
+
+    Merge branch 'master' of https://bitbucket.org/andredsm/cmst
+
+commit fbb79059c4ea0bb9d6adca5cc3ca49f450e5c894
+Author: RAFAEL PEREIRA DE OLIVEIRA <rpoliveira@verdi.grad.inf.puc-rio.br>
+Date:   Fri Jun 21 14:09:36 2013 -0300
+
+    Recursao levemente corrigida
+
+commit e8818b3452626e4eb63cba1ffb2dff3b5d67d34e
+Author: André Moreira <eu.andremoreira@gmail.com>
+Date:   Fri Jun 21 13:30:56 2013 -0300
+
+    Adicionado parâmetro para escolher entre Prim Vetor e Prim AVL
+
+commit c86dac9981b0d67a7f39054f90da98ab3c7a48db
+Author: BRUNO JOSE OLIVIERI DE SOUZA <bolivieri@vivaldi.grad.inf.puc-rio.br>
+Date:   Fri Jun 21 09:43:03 2013 -0300
+
+    Agora o programa pode ser rodado em paralelo para qualquer combinação de (INSTÂNCIA vs Q) que sejam diferentes...
+    
+    Cada combinação salva dois arquivos de saída (resultados e repostas) e imprime as respostas na tela.
+
+commit a97ceb57a23da7e315932288b759eb13c5a52557
+Merge: 06cbde7 3f0a3d2
+Author: BRUNO JOSE OLIVIERI DE SOUZA <bolivieri@vivaldi.grad.inf.puc-rio.br>
+Date:   Fri Jun 21 09:41:37 2013 -0300
+
+    Removido arquivo temp
+
+commit 06cbde7f8eb71e852bc22223e390081c5849403e
+Author: BRUNO JOSE OLIVIERI DE SOUZA <bolivieri@vivaldi.grad.inf.puc-rio.br>
+Date:   Fri Jun 21 09:29:59 2013 -0300
+
+    1) O programa agora salva dois arquivos, o de resultados e o de repostas (em dois formatos de repostas).
+    2) Os parametros de entrada passam a ser o Q e a Instância.
+    
+    Dessa forma, mas mesma pasta podem ser executados quantos processos paralelos quisermos...
+    
+    Para cada combinação (INSTÂNCIA vs Q) é salvo um par de arquivos com as repostas.
+    
+    Bruno
+
+commit 3f0a3d2842f59cd45bbec91f36cde68775917365
+Author: André Moreira <eu.andremoreira@gmail.com>
+Date:   Fri Jun 21 08:14:03 2013 -0300
+
+    .gitignore ignorando arquivos temporários do VI
+
+commit c24c7ed6532537baffe0f1fc352c016fb58bf356
+Author: BRUNO JOSE OLIVIERI DE SOUZA <bolivieri@vivaldi.grad.inf.puc-rio.br>
+Date:   Thu Jun 20 14:49:34 2013 -0300
+
+    Versao que pega o tamanho Q por argumento e mostra na telas as repostas parciais. Somente as repostas finais sao salvas no arquivo "resultados_finais.txt".
+
+commit d94fd95747699ac7c1cdeea472f333045b5d7120
+Author: BRUNO JOSE OLIVIERI DE SOUZA <bolivieri@vivaldi.grad.inf.puc-rio.br>
+Date:   Thu Jun 20 12:58:53 2013 -0300
+
+    orreção da variavel RES (somente)
+
+commit f44180fb7382e33a808f97ba430fb8c8b95031f8
+Author: André Moreira <eu.andremoreira@gmail.com>
+Date:   Thu Jun 20 08:14:03 2013 -0300
+
+    PrimAVL retornando a árvore da MST
+
+commit dab51c96631e81ae0037e97e797d7d4bc04a30a7
+Author: André Moreira <eu.andremoreira@gmail.com>
+Date:   Wed Jun 19 20:41:37 2013 -0300
+
+    Podas funcionando com o prim vetor. Chrono Adicionada
+
+commit 7f7709da3116f16d2bbaa4d9dd8862e9363c4bf0
+Author: André Moreira <eu.andremoreira@gmail.com>
+Date:   Wed Jun 19 00:04:19 2013 -0300
+
+    Limpeza dos arquivos do Codeblockes
+
+commit ea7d87b6453bcde29cad9c5d827463d9fe8157f9
+Author: André Moreira <eu.andremoreira@gmail.com>
+Date:   Tue Jun 18 23:56:14 2013 -0300
+
+    PrimVetor retornando a Árvore
+
+commit 91921c8debf7f99dded065903d331bf7f136b76c
+Author: ANDRE DE SOUZA MOREIRA <asouza@verdi.grad.inf.puc-rio.br>
+Date:   Tue Jun 18 17:52:41 2013 -0300
+
+    CMST com valida��es implementadas esperando a valida��o de demanda
+
+commit 9a06a0121ccce46d470ffffd470daebd4b1ac2ea
+Author: ANDRE DE SOUZA MOREIRA <asouza@verdi.grad.inf.puc-rio.br>
+Date:   Tue Jun 18 13:54:33 2013 -0300
+
+    Prim recebendo as arestas v�lidas
+
+commit fbb9ad7d53a4fc35efbdb9f1fd0cf09096361e42
+Author: ANDRE DE SOUZA MOREIRA <asouza@verdi.grad.inf.puc-rio.br>
+Date:   Sat Jun 15 18:51:41 2013 -0300
+
+    primeira versao
+
+commit 78fc0444130a568d8ee7b940ff02bdea0b011185
+Author: ANDRE DE SOUZA MOREIRA <asouza@verdi.grad.inf.puc-rio.br>
+Date:   Sat Jun 15 17:13:16 2013 -0300
+
+    Commit Inicial
